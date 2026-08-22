@@ -1,5 +1,3 @@
-# Checkpoint 3 – Identify Cloud Infrastructure Components
-
 ## Compute Resources
 In the KillerCoda Linux environment, the system has 1 Intel Xeon CPU** and 1.9 GiB of RAM. The CPU is used to process commands and run programs,
 while RAM helps programs run and store temporary data. Compute resources are important in cloud computing because applications need CPU and memory to work. 
