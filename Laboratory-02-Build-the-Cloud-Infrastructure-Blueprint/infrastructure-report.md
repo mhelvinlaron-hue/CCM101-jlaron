@@ -1,7 +1,5 @@
 # Infrastructure Report
 
-## Checkpoint 2 – Cloud Server Investigation
-
 The information was collected from the KillerCoda Linux environment:
 
 | Item | Finding |
