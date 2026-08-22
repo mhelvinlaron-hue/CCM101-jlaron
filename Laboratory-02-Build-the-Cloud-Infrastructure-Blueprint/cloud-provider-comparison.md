@@ -1,5 +1,3 @@
-# Checkpoint 4 – Cloud Provider Comparison
-
 ## Cloud Infrastructure Services Comparison
 
 | Infrastructure Component | AWS | Microsoft Azure | Google Cloud Platform (GCP) |
